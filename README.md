@@ -2,15 +2,13 @@
 
 <div>
   <a href="https://github.com/JaoVitorPeixoto/JaoVitorPeixoto">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/?username=JaoVitorPeixoto&include_all_commits=true&count_private=true&show_icons=true&locale=pt-br&theme=radical" />
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaoVitorPeixoto&layout=compact&locale=pt-br&theme=radical" />
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JaoVitorPeixoto&theme=github-green-purple&locale=pt_BR&card_width=550" alt="GitHub Streak" /></a>
   </a>
 </div>
 
 <br/>
 
-
-[![Linguagens](https://skillicons.dev/icons?i=git,docker,dotnet,angular,apex,cs,java,php,py,postgres,sqlserver,mysql,sqlite,js,html,css,)](https://skillicons.dev)
+[![Linguagens](https://skillicons.dev/icons?i=git,docker,dotnet,angular,cs,java,php,py,postgres,mysql,sqlite,js,html,css,)](https://skillicons.dev)
 
 ##
 
