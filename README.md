@@ -10,7 +10,7 @@
 <br/>
 
 
-[![Linguagens](https://skillicons.dev/icons?i=git,dotnet,angular,postgres,cs,java,php,py,mysql,sqlite,js,html,css,)](https://skillicons.dev)
+[![Linguagens](https://skillicons.dev/icons?i=git,docker,dotnet,angular,apex,cs,java,php,py,postgres,sqlserver,mysql,sqlite,js,html,css,)](https://skillicons.dev)
 
 ##
 
