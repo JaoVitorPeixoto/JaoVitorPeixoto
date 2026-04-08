@@ -1,10 +1,4 @@
-## Olá, sou João Peixoto😁😁
-
-<div>
-  <a href="https://github.com/JaoVitorPeixoto/JaoVitorPeixoto">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JaoVitorPeixoto&theme=github-green-purple&locale=pt_BR&card_width=550" alt="GitHub Streak" /></a>
-  </a>
-</div>
+## Olá, sou João Peixoto😁
 
 <br/>
 
